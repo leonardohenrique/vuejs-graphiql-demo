@@ -1,4 +1,6 @@
-# graphiql-demo-ui
+# GraphQL Demo UI
+
+Backend: https://github.com/leonardohenrique/spring-boot-graphql-demo
 
 ## Project setup
 ```
