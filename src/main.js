@@ -4,6 +4,9 @@ import VueApollo from 'vue-apollo'
 import ApolloClient from 'apollo-boost'
 import router from './router'
 
+import 'bootstrap'
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 Vue.use(VueApollo)
 
 const apolloClient = new ApolloClient({
