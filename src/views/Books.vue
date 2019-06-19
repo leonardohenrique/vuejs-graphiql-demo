@@ -1,6 +1,7 @@
 <template>
   <div>
     <h1>Books</h1>
+    <router-link :to="{ name: 'new-book'}" class="float-right">Add new book</router-link>
     <table class="table table-striped table-bordered">
       <thead>
         <tr>
